@@ -555,4 +555,4 @@ async function logCommandToERLC(apiKey, command, userId, timestamp) {
 }
 
 // Log in to Discord with your bot token (replace 'YOUR_BOT_TOKEN' with your token or use an env variable)
-client.login('YOUR_BOT_TOKEN');
+client.login('e91e7fa87feb6706de54d584fa4df4c99d66b57304ea8f1b62ab6d41afacdf8b');
